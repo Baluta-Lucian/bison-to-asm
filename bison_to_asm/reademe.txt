@@ -1,0 +1,4 @@
+C:\Utilities\GnuWin32\bin\bison -d mlp_analyzer.y
+flex mlp_scanner.l
+gcc mlp_analyzer.tab.c lex.yy.c
+a.exe < cod_txt.txt

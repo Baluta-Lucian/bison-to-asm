@@ -1,0 +1,2 @@
+<program> ::= <lista_importuri> using namespace std; int main() {<lista_instructiuni> return 0;}
+
